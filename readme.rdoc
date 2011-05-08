@@ -1,0 +1,15 @@
+= Image Mapper
+
+It makes creating HTML image maps super easy.
+
+http://coryschires-blog-post-images.s3.amazonaws.com/image_mapper_preview.png
+
+If you’ve ever used DreamWeaver to create an image map, then you’ll be pretty familiar with image-mapper’s interface. It’s three dead simple steps:
+
+1. Upload your image
+2. Map your image
+3. Copy your code
+
+It all happens on a single page so it’s pretty hard to get confused.
+
+Visit [Image Mapper]{http://www.image-mapper.com/}.
