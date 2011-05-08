@@ -1,43 +1,0 @@
-8
-
-dir
-1
-http://coryschires@coryandrob.com/image_mapper01/test
-http://coryschires@coryandrob.com/image_mapper01
-
-
-
-2010-01-16T06:55:54.047577Z
-1
-coryschires
-
-
-svn:special svn:externals svn:needs-lock
-
-unit
-dir
-
-test_helper.rb
-file
-
-
-
-
-2010-01-15T03:15:00.000000Z
-e297614c72684d065aef001f86188732
-2010-01-16T06:55:54.047577Z
-1
-coryschires
-
-performance
-dir
-
-functional
-dir
-
-integration
-dir
-
-fixtures
-dir
-

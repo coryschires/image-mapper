@@ -1,8 +1,0 @@
-
-
-Processing ApplicationController#index (for 127.0.0.1 at 2010-01-26 18:39:16) [GET]
-
-ActionController::RoutingError (No route matches "/aa" with {:method=>:get}):
-  
-
-Rendering rescues/layout (not_found)

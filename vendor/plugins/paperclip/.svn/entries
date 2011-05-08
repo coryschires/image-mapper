@@ -1,94 +1,0 @@
-8
-
-dir
-1
-http://coryschires@coryandrob.com/image_mapper01/vendor/plugins/paperclip
-http://coryschires@coryandrob.com/image_mapper01
-
-
-
-2010-01-16T06:55:54.047577Z
-1
-coryschires
-
-
-svn:special svn:externals svn:needs-lock
-
-test
-dir
-
-paperclip.gemspec
-file
-
-
-
-
-2010-01-15T03:46:35.000000Z
-77b9c807886cb88c83ae2df15f81ea8d
-2010-01-16T06:55:54.047577Z
-1
-coryschires
-
-LICENSE
-file
-
-
-
-
-2010-01-15T03:46:35.000000Z
-2af95e5ae3a192f2a7b5bf557419a5f2
-2010-01-16T06:55:54.047577Z
-1
-coryschires
-
-Rakefile
-file
-
-
-
-
-2010-01-15T03:46:35.000000Z
-113fe0d2213b54d9931d79b05b2185aa
-2010-01-16T06:55:54.047577Z
-1
-coryschires
-
-README.rdoc
-file
-
-
-
-
-2010-01-15T03:46:35.000000Z
-1edfe040d4ce02dc3210a15ad0a2ae37
-2010-01-16T06:55:54.047577Z
-1
-coryschires
-
-shoulda_macros
-dir
-
-cucumber
-dir
-
-init.rb
-file
-
-
-
-
-2010-01-15T03:46:35.000000Z
-c37561b62d59b8a58accf0341ec1f9b1
-2010-01-16T06:55:54.047577Z
-1
-coryschires
-
-tasks
-dir
-
-lib
-dir
-
-generators
-dir
-
