@@ -12,4 +12,4 @@ If you’ve ever used DreamWeaver to create an image map, then you’ll be prett
 
 It all happens on a single page so it’s pretty hard to get confused.
 
-Visit [Image Mapper]{http://www.image-mapper.com/}.
+Visit {Image Mapper}[http://www.image-mapper.com/].
