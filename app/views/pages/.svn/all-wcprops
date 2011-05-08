@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/image_mapper01/!svn/ver/7/app/views/pages
+END
+report_bug.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/image_mapper01/!svn/ver/7/app/views/pages/report_bug.html.erb
+END
+terms_of_use.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/image_mapper01/!svn/ver/9/app/views/pages/terms_of_use.html.erb
+END
+privacy_policy.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/image_mapper01/!svn/ver/9/app/views/pages/privacy_policy.html.erb
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/image_mapper01/!svn/ver/1/lib/tasks
+END
+delete_images.rake
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/image_mapper01/!svn/ver/7/lib/tasks/delete_images.rake
+END

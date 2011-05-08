@@ -1,0 +1,85 @@
+8
+
+dir
+0
+http://coryschires@coryandrob.com/image_mapper01
+http://coryschires@coryandrob.com/image_mapper01
+
+
+
+2010-01-16T03:50:57.224727Z
+0
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c94cfac1-de78-492f-afca-14f2a790a72e
+
+test
+dir
+
+tmp
+dir
+
+app
+dir
+
+log
+dir
+
+Rakefile
+file
+1
+
+
+
+2010-01-15T03:14:58.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2010-01-16T06:55:54.047577Z
+1
+coryschires
+
+script
+dir
+
+config
+dir
+
+db
+dir
+
+doc
+dir
+
+lib
+dir
+
+README
+file
+1
+
+
+
+2010-01-15T03:14:58.000000Z
+a58e68a7599c976f071d5b9c6fa67fb3
+2010-01-16T06:55:54.047577Z
+1
+coryschires
+
+vendor
+dir
+
+public
+dir
+

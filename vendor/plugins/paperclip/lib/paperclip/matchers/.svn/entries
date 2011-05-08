@@ -1,0 +1,64 @@
+8
+
+dir
+1
+http://coryschires@coryandrob.com/image_mapper01/vendor/plugins/paperclip/lib/paperclip/matchers
+http://coryschires@coryandrob.com/image_mapper01
+
+
+
+2010-01-16T06:55:54.047577Z
+1
+coryschires
+
+
+svn:special svn:externals svn:needs-lock
+
+validate_attachment_size_matcher.rb
+file
+
+
+
+
+2010-01-15T03:46:35.000000Z
+679877c6ef46ba43f4792a7f4a927b97
+2010-01-16T06:55:54.047577Z
+1
+coryschires
+
+validate_attachment_content_type_matcher.rb
+file
+
+
+
+
+2010-01-15T03:46:35.000000Z
+660ea862ad0c3fbded9a80b9b1ee719d
+2010-01-16T06:55:54.047577Z
+1
+coryschires
+
+have_attached_file_matcher.rb
+file
+
+
+
+
+2010-01-15T03:46:35.000000Z
+bddae98782d9359633b9f11157d5057b
+2010-01-16T06:55:54.047577Z
+1
+coryschires
+
+validate_attachment_presence_matcher.rb
+file
+
+
+
+
+2010-01-15T03:46:35.000000Z
+2165f44aa6cfeaaf39eec3399d697143
+2010-01-16T06:55:54.047577Z
+1
+coryschires
+

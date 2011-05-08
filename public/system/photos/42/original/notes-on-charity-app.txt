@@ -1,0 +1,31 @@
+Events don't send or receive messages (they can send an updates/invites but that goes to an email address; has nothing to do with msg inbox). With that in mind, we don't *need* an inbox; we can already send updates and invitations
+
+Messages then would only go between profiles (either organizations, partners, (donors?))
+
+Leaving it out would save a lot of work, but what is gained by adding it?
+1) Right now billies have no way to invite other billies unless they have their email address
+2) Billies might want to send messages to donors, billies, or organizations not in their network
+3) Organizations might want to send messages to donors, billies, or organizations not in their network
+4) Donors might want to send messages to donors, billies, or organizations not in their network
+
+Questions that might/probably will matter:
+1) How will organizations send invites? Same as billies? Then they will need an email address. 
+2) What about billies receiving invites? Will those just hit their email address? Or will they happen within the app (right now they have an invites tab no their profile page?)
+3) Also how would billies send invites to other billies?
+
+Is there a difference between an invite to donate and an invite to become a partner?
+
+organization
+billies
+donors ()
+public 
+
+messages - private, one-to-one, users must have an account, message go to app-inbox
+update - public; go to gmail; cannot respond (but could comment)
+comments - public, anyone can make a comment, billy gets alert to gmail
+call to action - internal, billies invite other billies, organizations invite other billies
+invite friends to donate - external, private, one-to-many, go to gmail, no response
+tell a friend - public, one-to-many, let people know about an event or post 
+
+http://www.dabbleboard.com/draw?b=bcody&i=0&c=e823a47fa640d0062476ae7c1457945333de5b5e
+

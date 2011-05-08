@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/image_mapper01/!svn/ver/1/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/image_mapper01/!svn/ver/1/script/console
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/image_mapper01/!svn/ver/1/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/image_mapper01/!svn/ver/1/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/image_mapper01/!svn/ver/1/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/image_mapper01/!svn/ver/1/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/image_mapper01/!svn/ver/1/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/image_mapper01/!svn/ver/1/script/generate
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/image_mapper01/!svn/ver/1/script/plugin
+END

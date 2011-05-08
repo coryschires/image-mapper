@@ -1,0 +1,27 @@
+<% title "Report Bug", false %>
+
+<h2 class="page_title" id="report_bug_title">Report Bug.</h2>
+
+<div id="report_bug_form_wrap">
+	<div id="form_message">
+		<p>
+			Find <span class="blue">something wrong</span>?<br />
+			Have a question?<br />
+		</p>
+		<p class="instruction">
+			Send me a message using this form. I'll probably get back to you within a few hours.
+		</p>
+	</div>
+	<script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
+
+	<script type="text/javascript">
+	var q7x3k1 = new WufooForm();
+	q7x3k1.initialize({
+	'userName':'coryschires', 
+	'formHash':'q7x3k1', 
+	'autoResize':true,
+	'height':'558', 
+	'ssl':true});
+	q7x3k1.display();
+	</script>
+</div><!-- report_bug_form_wrap -->

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/image_mapper01/!svn/ver/1/vendor/plugins/paperclip/test/matchers
+END
+validate_attachment_size_matcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/image_mapper01/!svn/ver/1/vendor/plugins/paperclip/test/matchers/validate_attachment_size_matcher_test.rb
+END
+validate_attachment_content_type_matcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/image_mapper01/!svn/ver/1/vendor/plugins/paperclip/test/matchers/validate_attachment_content_type_matcher_test.rb
+END
+have_attached_file_matcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/image_mapper01/!svn/ver/1/vendor/plugins/paperclip/test/matchers/have_attached_file_matcher_test.rb
+END
+validate_attachment_presence_matcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/image_mapper01/!svn/ver/1/vendor/plugins/paperclip/test/matchers/validate_attachment_presence_matcher_test.rb
+END

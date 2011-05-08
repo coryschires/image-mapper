@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/image_mapper01/!svn/ver/1/db
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/image_mapper01/!svn/ver/1/db/schema.rb
+END
+development.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/image_mapper01/!svn/ver/9/db/development.sqlite3
+END
+seeds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/image_mapper01/!svn/ver/1/db/seeds.rb
+END

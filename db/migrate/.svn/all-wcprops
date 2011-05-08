@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/image_mapper01/!svn/ver/1/db/migrate
+END
+20100115032855_create_images.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/image_mapper01/!svn/ver/1/db/migrate/20100115032855_create_images.rb
+END
+20100115043821_add_attachments_photo_to_image.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/image_mapper01/!svn/ver/1/db/migrate/20100115043821_add_attachments_photo_to_image.rb
+END
